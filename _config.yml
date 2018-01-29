@@ -22,5 +22,5 @@ defaults:
     layout: page
 permalink: pretty
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 remote_theme: mmistakes/minimal-mistakes
