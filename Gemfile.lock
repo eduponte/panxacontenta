@@ -233,7 +233,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  minima
+  jekyll-remote-theme
 
 BUNDLED WITH
    1.14.3
