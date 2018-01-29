@@ -1,14 +1,11 @@
 ---
 title: Panxacontenta - Grup de consum crític
 date: 2018-01-29 12:10:00 Z
----
-
----
 layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: "https://3.bp.blogspot.com/-uYPHRipIWk0/TWPFz1rKEkI/AAAAAAAAAN0/561Bx9OQ9nQ/s1600/cabecera_04.jpg"
   cta_label: "<i class='fas fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
