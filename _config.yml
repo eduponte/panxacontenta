@@ -21,4 +21,5 @@ defaults:
   values:
     layout: page
 permalink: pretty
-remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: mint
+theme: minimal-mistakes-jekyll
