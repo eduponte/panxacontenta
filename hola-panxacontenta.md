@@ -1,9 +1,9 @@
 ---
 title: Hola Panxacontenta
 date: 2018-01-29 08:58:00 Z
-Field name: 
+layout: single
 ---
 
 ## Hola Panxacontenta
 
-Hola món, des de panxacontenta!
+Hola petit món, des de panxacontenta!

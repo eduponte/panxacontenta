@@ -23,4 +23,5 @@ defaults:
 permalink: pretty
 plugins:
   - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: mint
+theme: minimal-mistakes-jekyll
