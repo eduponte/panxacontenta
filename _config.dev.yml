@@ -22,4 +22,4 @@ defaults:
     layout: page
 permalink: pretty
 minimal_mistakes_skin: mint
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll

@@ -8,7 +8,7 @@ header:
   overlay_image: https://3.bp.blogspot.com/-uYPHRipIWk0/TWPFz1rKEkI/AAAAAAAAAN0/561Bx9OQ9nQ/s1600/cabecera_04.jpg
   cta_label: "<i class='fas fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
-  caption: 
+  caption:
 excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and
   portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.9.0">Latest
   release v4.9.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;"
